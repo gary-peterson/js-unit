@@ -1,0 +1,30 @@
+{
+  "name": "@garypeterson/js-unit",
+  "version": "1.0.0",
+  "description": "Javascript unit testing (xUnit style)",
+  "keywords": [
+    "jsUnit",
+    "xUnit",
+    "unit testing"
+  ],
+  "homepage": "https://github.com/gary-peterson/jsUnit#readme",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary-peterson/jsUnit.git"
+  },
+  "author": "gp",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/gary-peterson/jsUnit/issues"
+  }
+}
